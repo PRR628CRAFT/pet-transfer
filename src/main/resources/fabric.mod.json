@@ -1,0 +1,46 @@
+{
+	"schemaVersion": 1,
+	"id": "pettransfer",
+	"version": "${version}",
+	"name": "PetTransfer",
+	"description": "Easily transfer your pets to new owners with the simple /pet command!",
+	"authors": [
+		"PRR628"
+	],
+	"contributors": [
+		"FloofyFinch (Idea)"
+	],
+	"contact": {
+		"homepage": "https://prr628craft.net/projects/pet-transfer",
+		"sources": "https://github.com/PRR628CRAFT/pet-transfer",
+		"issues": "https://github.com/PRR628CRAFT/pet-transfer/issues"
+	},
+	"license": "CC BY-NC-SA 4.0",
+	"icon": "assets/pettransfer/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.prr628craft.pettransfer.PetTransfer"
+		],
+		"client": [
+			"net.prr628craft.pettransfer.client.PetTransferClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	},
+	"custom": {
+		"modmenu": {
+			"links": {
+				"modmenu.discord": "https://discord.gg/muRejQWXdA",
+				"modmenu.patreon": "https://patreon.com/c/PRR628CRAFT",
+				"modmenu.modrinth": "https://modrinth.com/mod/pettransfer"
+			},
+			"badges": [],
+			"update_checker": true
+		}
+	}
+}
