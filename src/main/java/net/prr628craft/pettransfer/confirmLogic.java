@@ -1,6 +1,5 @@
 package net.prr628craft.pettransfer;
 
-import com.mojang.brigadier.Message;
 import net.minecraft.ChatFormatting;
 import net.minecraft.network.chat.ClickEvent;
 import net.minecraft.network.chat.Component;
