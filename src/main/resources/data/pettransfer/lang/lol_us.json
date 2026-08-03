@@ -6,6 +6,7 @@
   "commands.pettransfer.help.transfer": "Giv teh pet yuo ar seeing 2 owner of yuo choyse.",
   "commands.pettransfer.help.confirm": "maek shur yuo want 2 giv yuor pet. (Can be stawped by auto yess on/off)",
   "commands.pettransfer.help.accept": "Get a pet person iz giving yuo.",
+  "commands.pettransfer.help.credits": "Shoz maekerz of modz!",
   "commands.pettransfer.help.version": "Says mod vershun.",
 
   "commands.pettransfer.transfer.fail.noentity": "EWOR: Yuo wuz not look at entity!",
@@ -29,5 +30,6 @@
   "commands.pettransfer.credits": "Deez are teh creditz of teh ppl who halped wif dis mod!",
   "commands.pettransfer.credits.developer": "Dehvelahpah",
   "commands.pettransfer.credits.designer": "Dehsignah",
-  "commands.pettransfer.credits.translator": "Transwater"
+  "commands.pettransfer.credits.translator": "%1$s Transwater",
+  "commands.pettransfer.credits.license": "Lisens:"
 }

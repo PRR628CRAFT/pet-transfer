@@ -29,5 +29,5 @@
   "commands.pettransfer.credits": "Dit is de aftiteling van de bijdragers aan deze mod!",
   "commands.pettransfer.credits.developer": "Ontwikkelaar",
   "commands.pettransfer.credits.designer": "Ontwerper",
-  "commands.pettransfer.credits.translator": "Vertaler"
+  "commands.pettransfer.credits.translator": "%1$s Vertaler"
 }

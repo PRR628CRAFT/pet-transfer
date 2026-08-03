@@ -8,7 +8,10 @@
 		"PRR628"
 	],
 	"contributors": [
-		"FloofyFinch (Idea)"
+		"FloofyFinch (Original Idea)",
+		"AugustaAG (Polish Translator)",
+		"DrPiro628",
+		"Ruby031 (Dutch Translator)"
 	],
 	"contact": {
 		"homepage": "https://prr628craft.net/projects/pet-transfer",
@@ -21,9 +24,6 @@
 	"entrypoints": {
 		"main": [
 			"net.prr628craft.pettransfer.PetTransfer"
-		],
-		"client": [
-			"net.prr628craft.pettransfer.client.PetTransferClient"
 		]
 	},
 	"depends": {

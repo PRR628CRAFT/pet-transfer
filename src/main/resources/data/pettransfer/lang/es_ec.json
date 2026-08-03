@@ -1,0 +1,35 @@
+{
+  "commands.pettransfer.main": "Usa %1$s para obtener la información de uso.",
+
+  "commands.pettransfer.help.main": "Los subcomandos disponibles son:",
+  "commands.pettransfer.help.help": "Muestra este diálogo.",
+  "commands.pettransfer.help.transfer": "Transfiere la mascota que estás mirando a otra persona de tu elección.",
+  "commands.pettransfer.help.confirm": "Confirma que quieres transferir a tu mascota. (Puede ser omitido usando el valor booleano de AutoConfirmación.)",
+  "commands.pettransfer.help.accept": "Acepta la mascota que alguien está transfiriéndote.",
+  "commands.pettransfer.help.credits": "Muestra los créditos del mod.",
+  "commands.pettransfer.help.version": "Imprime la versión del mod.",
+
+  "commands.pettransfer.transfer.fail.noentity": "ERROR: ¡No estás mirando a ninguna entidad!",
+  "commands.pettransfer.transfer.fail.untameable": "ERROR: ¡%1$s no es domesticable!",
+  "commands.pettransfer.transfer.fail.untamed": "ERROR: ¡%1$s sigue sin domesticar!",
+  "commands.pettransfer.transfer.fail.notowned": "ERROR: ¡%1$s no te pertenece!",
+  "commands.pettransfer.transfer.fail.self": "ERROR: ¡No puedes transferir tu mascota a ti mismo, que gracioso!",
+  "commands.pettransfer.transfer.confirm": " ¿Seguro quieres enviar %1$s a %2$s? Ejecuta %3$s o %4$s para confirmar.",
+  "commands.pettransfer.transfer.confirm.click": "presiona aquí",
+
+  "commands.pettransfer.confirm.autoconfirmed": "¡AutoConfirmado! Ahora preguntándole a %1$s si quiere a %2$s.",
+  "commands.pettransfer.confirm.confirmed": "Ahora preguntándole a %1$s si quiere a %2$s...",
+  "commands.pettransfer.confirm.ask": "¡%1$s quiere enviarte a %2$s! Ejecuta %3$s o %4$s para aceptar.",
+  "commands.pettransfer.confirm.ask.click": "presiona aquí",
+
+  "commands.pettransfer.accept.gifter": "¡%2$s aceptó tu solicitud de transferencia! ¡La transferencia de %1$s a %2$s ha sido completada!",
+  "commands.pettransfer.accept.recipient": "¡Recibiste a %1$s de %2$s exitosamente! ¡Asegúrate de darle las gracias!",
+
+  "commands.pettransfer.version": "Versión:",
+
+  "commands.pettransfer.credits": "¡Estos son los créditos de las personas que han contribuido a este mod!",
+  "commands.pettransfer.credits.developer": "Desarrollo",
+  "commands.pettransfer.credits.designer": "Diseño",
+  "commands.pettransfer.credits.translator": "Traducción al %1$s",
+  "commands.pettransfer.credits.license": "Licencia:"
+}

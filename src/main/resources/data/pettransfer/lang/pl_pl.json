@@ -29,5 +29,5 @@
   "commands.pettransfer.credits": "Tutaj są podziękowania dla tych którzy przyczynili się do pracy na tym modzie!",
   "commands.pettransfer.credits.developer": "Deweloper",
   "commands.pettransfer.credits.designer": "Projektant",
-  "commands.pettransfer.credits.translator": "Tłumacz"
+  "commands.pettransfer.credits.translator": "%1$s Tłumacz"
 }

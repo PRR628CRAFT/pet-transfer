@@ -58,6 +58,10 @@ public class PetTransfer implements ModInitializer {
 								.append(Component.literal(" - ").withStyle(ChatFormatting.GRAY))
 								.append(Component.translatable("commands.pettransfer.help.accept").withStyle(ChatFormatting.GRAY)).append("\n")
 
+								.append(Component.literal("credits").withStyle(ChatFormatting.YELLOW))
+								.append(Component.literal(" - ").withStyle(ChatFormatting.GRAY))
+								.append(Component.translatable("commands.pettransfer.help.credits").withStyle(ChatFormatting.GRAY)).append("\n")
+
 								.append(Component.literal("version").withStyle(ChatFormatting.YELLOW))
 								.append(Component.literal(" - ").withStyle(ChatFormatting.GRAY))
 								.append(Component.translatable("commands.pettransfer.help.version").withStyle(ChatFormatting.GRAY)).append("\n")
@@ -83,7 +87,32 @@ public class PetTransfer implements ModInitializer {
 								.append(Component.translatable("commands.pettransfer.accept.recipient", Component.translatable("placeholder.pettransfer.pet"), Component.translatable("placeholder.pettransfer.recipient")))
 						, false);
 				return 1;
+			})).then(Commands.literal("credits").executes(context -> {
+				context.getSource().sendSuccess(() -> Component.empty()
+								.append(getPrefix())
+								.append(Component.translatable("commands.pettransfer.credits")).append("\n")
 
+								.append(Component.literal("PRR628").withStyle(ChatFormatting.GREEN))
+								.append(Component.literal(" - ").withStyle(ChatFormatting.GRAY))
+								.append(Component.translatable("commands.pettransfer.credits.developer").withStyle(ChatFormatting.GRAY)).append("\n")
+
+								.append(Component.literal("FloofyFinch").withStyle(ChatFormatting.AQUA))
+								.append(Component.literal(" - ").withStyle(ChatFormatting.GRAY))
+								.append(Component.translatable("commands.pettransfer.credits.designer").withStyle(ChatFormatting.GRAY)).append("\n")
+
+								.append(Component.literal("AugustaAG").withStyle(ChatFormatting.RED))
+								.append(Component.literal(" - ").withStyle(ChatFormatting.GRAY))
+								.append(Component.translatable("commands.pettransfer.credits.translator", Component.literal("Polska")).withStyle(ChatFormatting.GRAY)).append("\n")
+
+								.append(Component.literal("DrPiro628").withStyle(ChatFormatting.RED))
+								.append(Component.literal(" - ").withStyle(ChatFormatting.GRAY))
+								.append(Component.translatable("commands.pettransfer.credits.translator", Component.literal("Español")).withStyle(ChatFormatting.GRAY)).append("\n")
+
+								.append(Component.literal("Ruby031").withStyle(ChatFormatting.RED))
+								.append(Component.literal(" - ").withStyle(ChatFormatting.GRAY))
+								.append(Component.translatable("commands.pettransfer.credits.translator", Component.literal("Nederlands")).withStyle(ChatFormatting.GRAY)).append("\n")
+						, false);
+				return 1;
 			})).then(Commands.literal("version").executes(context -> {
 						context.getSource().sendSuccess(() -> Component.empty()
 										.append(getPrefix())
@@ -93,7 +122,6 @@ public class PetTransfer implements ModInitializer {
 										.append(Component.literal("alpha.1").withStyle(ChatFormatting.RED))
 								, false);
 						return 1;
-
 					})
 			));
 

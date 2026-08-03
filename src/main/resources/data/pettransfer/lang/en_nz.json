@@ -3,9 +3,10 @@
 
   "commands.pettransfer.help.main": "Available subcommands are:",
   "commands.pettransfer.help.help": "Displays this dialog.",
-  "commands.pettransfer.help.transfer": "Transfer the pet you are looking at to an owner of thy choice.",
+  "commands.pettransfer.help.transfer": "Transfer the pet you are looking at to an owner of your choice.",
   "commands.pettransfer.help.confirm": "Confirm you want to transfer your pet. (Can be bypassed via AutoConfirm boolean)",
   "commands.pettransfer.help.accept": "Accept a pet someone is transferring to you.",
+  "commands.pettransfer.help.credits": "Print the credits for the mod.",
   "commands.pettransfer.help.version": "Prints mod version.",
 
   "commands.pettransfer.transfer.fail.noentity": "ERROR: You are not looking at an entity!",
@@ -29,5 +30,6 @@
   "commands.pettransfer.credits": "These are the credits of the people who contributed to this mod!",
   "commands.pettransfer.credits.developer": "Developer",
   "commands.pettransfer.credits.designer": "Designer",
-  "commands.pettransfer.credits.translator": "Translator"
+  "commands.pettransfer.credits.translator": "%1$s Translator",
+  "commands.pettransfer.credits.license": "License:"
 }
