@@ -12,9 +12,6 @@ import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.TamableAnimal;
 
-import java.util.Objects;
-import java.util.UUID;
-
 import static net.prr628craft.pettransfer.PetTransfer.LOGGER;
 
 public class transferLogic {
@@ -26,8 +23,7 @@ public class transferLogic {
     public static int transferFunc(CommandContext<CommandSourceStack> transferdialog, Boolean autoconfirm) throws CommandSyntaxException {
         ServerPlayer recipient = EntityArgument.getPlayer(transferdialog, "recipient"); // Fetches the recipient from the cmd argument
         String recipientName = recipient.getGameProfile().name();
-        ServerPlayer gifter = transferdialog.getSource().getPlayer(); // fetches the gifter from the command source
-        assert gifter != null;
+        ServerPlayer gifter = transferdialog.getSource().getPlayerOrException(); // fetches the gifter from the command source
         String gifterName = gifter.getGameProfile().name();
         Entity entity = PetCast.getLookedAtEntity(gifter, 8); // fetches the entity from the raycast helpurr
 
@@ -35,9 +31,7 @@ public class transferLogic {
             String entityName = entity.getDisplayName().getString();
             if (entity instanceof TamableAnimal pet) {
                 if (pet.isTame()) {
-                    UUID ownerId = Objects.requireNonNull(pet.getOwner()).getUUID();
-                    UUID gifterId = gifter.getUUID();
-                    if (ownerId.equals(gifterId)) {
+                    if (pet.isOwnedBy(gifter)) {
                         if (!recipient.equals(gifter)) {
                             if (autoconfirm) {
                                 confirmLogic.confirmFunc(gifter, pet, recipient, Boolean.TRUE);
