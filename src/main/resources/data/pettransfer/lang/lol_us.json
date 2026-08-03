@@ -1,0 +1,33 @@
+{
+  "commands.pettransfer.main": "Use %1$s 4 moar info.",
+
+  "commands.pettransfer.help.main": "Teh subcmds ar:",
+  "commands.pettransfer.help.help": "Shoz dis mesg!",
+  "commands.pettransfer.help.transfer": "Giv teh pet yuo ar seeing 2 owner of yuo choyse.",
+  "commands.pettransfer.help.confirm": "maek shur yuo want 2 giv yuor pet. (Can be stawped by auto yess on/off)",
+  "commands.pettransfer.help.accept": "Get a pet person iz giving yuo.",
+  "commands.pettransfer.help.version": "Says mod vershun.",
+
+  "commands.pettransfer.transfer.fail.noentity": "EWOR: Yuo wuz not look at entity!",
+  "commands.pettransfer.transfer.fail.untameable": "EWOR: %1$s iz not taemble!",
+  "commands.pettransfer.transfer.fail.untamed": "EWOR: %1$s iz not taemed!",
+  "commands.pettransfer.transfer.fail.notowned": "EWOR: %1$s iz not yuors!",
+  "commands.pettransfer.transfer.fail.self": "EWOR: yuo kant giv yuosalf pet!",
+  "commands.pettransfer.transfer.confirm": " Are yuo shur yuo want 2 giv %1$s 2 %2$s? Do %3$s or %4$s to say yas.",
+  "commands.pettransfer.transfer.confirm.click": "clik me",
+
+  "commands.pettransfer.confirm.autoconfirmed": "auto yessed! Now asking %1$s if tey want %2$s.",
+  "commands.pettransfer.confirm.confirmed": "Now asking %1$s if tey want %2$s...",
+  "commands.pettransfer.confirm.ask": "%1$s wuld liek 2 giv yuo %2$s! Do %3$s or %4$s to say yas.",
+  "commands.pettransfer.confirm.ask.click": "clik me",
+
+  "commands.pettransfer.accept.gifter": "%2$s yessed yuor giv reqwest! Goodly gived %1$s 2 %2$s!",
+  "commands.pettransfer.accept.recipient": "Goodly got %1$s from %2$s! Be sure 2 thk dem!",
+
+  "commands.pettransfer.version": "Vershun:",
+
+  "commands.pettransfer.credits": "Deez are teh creditz of teh ppl who halped wif dis mod!",
+  "commands.pettransfer.credits.developer": "Dehvelahpah",
+  "commands.pettransfer.credits.designer": "Dehsignah",
+  "commands.pettransfer.credits.translator": "Transwater"
+}

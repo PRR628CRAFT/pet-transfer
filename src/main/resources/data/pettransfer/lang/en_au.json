@@ -1,0 +1,33 @@
+{
+  "commands.pettransfer.main": "Use %1$s for usage info.",
+
+  "commands.pettransfer.help.main": "Available subcommands are:",
+  "commands.pettransfer.help.help": "Displays this dialog.",
+  "commands.pettransfer.help.transfer": "Transfer the pet you are looking at to an owner of your choice.",
+  "commands.pettransfer.help.confirm": "Confirm you want to transfer your pet. (Can be bypassed via AutoConfirm boolean)",
+  "commands.pettransfer.help.accept": "Accept a pet someone is transferring to you.",
+  "commands.pettransfer.help.version": "Prints mod version.",
+
+  "commands.pettransfer.transfer.fail.noentity": "ERROR: You are not looking at an entity!",
+  "commands.pettransfer.transfer.fail.untameable": "ERROR: %1$s isn't tameable!",
+  "commands.pettransfer.transfer.fail.untamed": "ERROR: %1$s is not tamed!",
+  "commands.pettransfer.transfer.fail.notowned": "ERROR: %1$s is not yours!",
+  "commands.pettransfer.transfer.fail.self": "ERROR: You cannot transfer a pet to yourself, silly!",
+  "commands.pettransfer.transfer.confirm": " Are you sure you want to send %1$s to %2$s? Run %3$s or %4$s to confirm.",
+  "commands.pettransfer.transfer.confirm.click": "click here",
+
+  "commands.pettransfer.confirm.autoconfirmed": "AutoConfirmed! Now asking %1$s if they want %2$s.",
+  "commands.pettransfer.confirm.confirmed": "Now asking %1$s if they want %2$s...",
+  "commands.pettransfer.confirm.ask": "%1$s would like to send you %2$s! Run %3$s or %4$s to accept.",
+  "commands.pettransfer.confirm.ask.click": "click here",
+
+  "commands.pettransfer.accept.gifter": "%2$s accepted your transfer request! Successfully sent %1$s to %2$s!",
+  "commands.pettransfer.accept.recipient": "Successfully received %1$s from %2$s! Be sure to thank them!",
+
+  "commands.pettransfer.version": "Version:",
+
+  "commands.pettransfer.credits": "These are the credits of the people who contributed to this mod!",
+  "commands.pettransfer.credits.developer": "Developer",
+  "commands.pettransfer.credits.designer": "Designer",
+  "commands.pettransfer.credits.translator": "Translator"
+}

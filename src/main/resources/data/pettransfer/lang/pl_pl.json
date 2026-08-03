@@ -1,0 +1,33 @@
+{
+  "commands.pettransfer.main": "Użyj %1$s jako informacje o użytkowaniu.",
+
+  "commands.pettransfer.help.main": "Dostępne podpolecenia są:",
+  "commands.pettransfer.help.help": "Wyświetl ten dialog.",
+  "commands.pettransfer.help.transfer": "Przenieś zwierzaka na którego patrzysz na do wybranego właściciela.",
+  "commands.pettransfer.help.confirm": "Zweryfikuj czy chcesz przenieść swojego zwierzaka. (Może być ominięte poprzez autopotwierdż boolean)",
+  "commands.pettransfer.help.accept": "Zaakceptuj zwierzaka przeniesionego do ciebie.",
+  "commands.pettransfer.help.version": "Drukuje wersje moda.",
+
+  "commands.pettransfer.transfer.fail.noentity": "BŁĄD: Nie patrzysz się na zwierzaka!",
+  "commands.pettransfer.transfer.fail.untameable": "BŁĄD %1$s nie da się oswoić!",
+  "commands.pettransfer.transfer.fail.untamed": "BŁĄD: %1$s nie jest oswojony!",
+  "commands.pettransfer.transfer.fail.notowned": "BŁĄD: %1$s nie jest twój!",
+  "commands.pettransfer.transfer.fail.self": "BŁĄD: Nie możesz przenieść swojego zwierzaka z powrotem do siebie, głuptasie!",
+  "commands.pettransfer.transfer.confirm": " Na pewno chcesz wysłać %1$s do %2$s? Użyj %3$s albo %4$s żeby potwierdzić.",
+  "commands.pettransfer.transfer.confirm.click": "kliknij tutaj",
+
+  "commands.pettransfer.confirm.autoconfirmed": "Autopotwierdzone! Teraz pytam %1$s czy chcą %2$s.",
+  "commands.pettransfer.confirm.confirmed": "Teraz pytam %1$s czy chcą %2$s...",
+  "commands.pettransfer.confirm.ask": "%1$s chciałby wysłać ci %2$s! Użyj %3$s albo %4$s żeby zaakceptować.",
+  "commands.pettransfer.confirm.ask.click": "kliknij tutaj",
+
+  "commands.pettransfer.accept.gifter": "%2$s zaakceptował twoją prośbę o przeniesienie! Pomyślnie wysłano %1$s do %2$s!",
+  "commands.pettransfer.accept.recipient": "Pomyślnie odebrano %1$s od %2$s! Pamiętaj żeby im podziękować!",
+
+  "commands.pettransfer.version": "Wersja:",
+
+  "commands.pettransfer.credits": "Tutaj są podziękowania dla tych którzy przyczynili się do pracy na tym modzie!",
+  "commands.pettransfer.credits.developer": "Deweloper",
+  "commands.pettransfer.credits.designer": "Projektant",
+  "commands.pettransfer.credits.translator": "Tłumacz"
+}

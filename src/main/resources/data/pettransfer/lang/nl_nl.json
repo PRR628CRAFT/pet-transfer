@@ -1,0 +1,33 @@
+{
+  "commands.pettransfer.main": "Gebruik %1$s voor gebruikersinformatie.",
+
+  "commands.pettransfer.help.main": "Beschikbare subcommandos zijn:",
+  "commands.pettransfer.help.help": "Toont dit dialoogvenster.",
+  "commands.pettransfer.help.transfer": "Draagt het huisdier waar je naar kijkt over naar een andere eigenaar naar keuze.",
+  "commands.pettransfer.help.confirm": "Verifieer dat je je huisdier wil overdragen. (Is omzeilbaar via het Automatisch Bevestigen booleaan)",
+  "commands.pettransfer.help.accept": "Accepteer een huisdier dat iemand aan je overdraagt.",
+  "commands.pettransfer.help.version": "Toont de huidige mod versie.",
+
+  "commands.pettransfer.transfer.fail.noentity": "ERROR: Je kijkt niet naar een wezen!",
+  "commands.pettransfer.transfer.fail.untameable": "ERROR: %1$s Is niet te temmen!",
+  "commands.pettransfer.transfer.fail.untamed": "ERROR: %1$s Is niet getemd",
+  "commands.pettransfer.transfer.fail.notowned": "ERROR: %1$s Is niet van jou!",
+  "commands.pettransfer.transfer.fail.self": "ERROR: Je kan geen huisdier naar jezelf overdragen, gekkie!",
+  "commands.pettransfer.transfer.confirm": " Weet je zeker dat je %1$s naar %2$s wil sturen? Voer %3$s of %4$s uit om te bevestigen.",
+  "commands.pettransfer.transfer.confirm.click": "klik hier",
+
+  "commands.pettransfer.confirm.autoconfirmed": "Automatisch Bevestigd! Er wordt nu gevraagd of %1$s %2$s wil.",
+  "commands.pettransfer.confirm.confirmed": "Er wordt gevraagd of %1$s %2$s wil...",
+  "commands.pettransfer.confirm.ask": "%1$s Wil je graag %2$s geven! Voer %3$s of %4$s uit om te accepteren.",
+  "commands.pettransfer.confirm.ask.click": "klik hier",
+
+  "commands.pettransfer.accept.gifter": "%2$s Heeft je overdracht geaccepteerd! Succesvol %1$s naar %2$s gestuurd!",
+  "commands.pettransfer.accept.recipient": "Succesvol %1$s van %2$s gekregen! Vergeet niet hun te bedanken!",
+
+  "commands.pettransfer.version": "Versie:",
+
+  "commands.pettransfer.credits": "Dit is de aftiteling van de bijdragers aan deze mod!",
+  "commands.pettransfer.credits.developer": "Ontwikkelaar",
+  "commands.pettransfer.credits.designer": "Ontwerper",
+  "commands.pettransfer.credits.translator": "Vertaler"
+}
