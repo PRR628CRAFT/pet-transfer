@@ -8,10 +8,45 @@
 		"PRR628"
 	],
 	"contributors": [
-		"FloofyFinch (Original Idea)",
-		"AugustaAG (Polish Translator)",
-		"DrPiro628",
-		"Ruby031 (Dutch Translator)"
+		"(Original Idea)",
+		{
+			"name": "FloofyFinch",
+			"contact": {
+				"homepage": "https://modrinth.com/user/floofyfinch"
+			}
+		},
+		"(Polish Translator)",
+		{
+			"name": "AugustaAG"
+		},
+		"(Arabic Translator)",
+		{
+			"name": "dawn_homan",
+			"contact": {
+				"homepage": "https://modrinth.com/user/dawn_homan"
+			}
+		},
+		"(Spanish Translator)",
+		{
+			"name": "DrPiro628",
+			"contact": {
+				"homepage": "https://github.com/Piro628"
+			}
+		},
+		"(Japanese Translator)",
+		{
+			"name": "_glaci",
+			"contact": {
+				"homepage": "https://modrinth.com/user/glacigaymeow"
+			}
+		},
+		"(Dutch Translator)",
+		{
+			"name": "Ruby031",
+			"contact": {
+				"homepage": "https://modrinth.com/user/Ruby031"
+			}
+		}
 	],
 	"contact": {
 		"homepage": "https://prr628craft.net/projects/pet-transfer",

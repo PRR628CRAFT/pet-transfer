@@ -92,11 +92,11 @@ public class PetTransfer implements ModInitializer {
 								.append(getPrefix())
 								.append(Component.translatable("commands.pettransfer.credits")).append("\n")
 
-								.append(Component.literal("PRR628").withStyle(ChatFormatting.GREEN))
+								.append(Component.literal("PRR628").withStyle(ChatFormatting.AQUA))
 								.append(Component.literal(" - ").withStyle(ChatFormatting.GRAY))
 								.append(Component.translatable("commands.pettransfer.credits.developer").withStyle(ChatFormatting.GRAY)).append("\n")
 
-								.append(Component.literal("FloofyFinch").withStyle(ChatFormatting.AQUA))
+								.append(Component.literal("FloofyFinch").withStyle(ChatFormatting.GREEN))
 								.append(Component.literal(" - ").withStyle(ChatFormatting.GRAY))
 								.append(Component.translatable("commands.pettransfer.credits.designer").withStyle(ChatFormatting.GRAY)).append("\n")
 
@@ -104,9 +104,17 @@ public class PetTransfer implements ModInitializer {
 								.append(Component.literal(" - ").withStyle(ChatFormatting.GRAY))
 								.append(Component.translatable("commands.pettransfer.credits.translator", Component.literal("Polska")).withStyle(ChatFormatting.GRAY)).append("\n")
 
+								.append(Component.literal("dawn_homan").withStyle(ChatFormatting.RED))
+								.append(Component.literal(" - ").withStyle(ChatFormatting.GRAY))
+								.append(Component.translatable("commands.pettransfer.credits.translator", Component.literal("اَللُّغَةُ الْعَرَبِيَّةُ")).withStyle(ChatFormatting.GRAY)).append("\n")
+
 								.append(Component.literal("DrPiro628").withStyle(ChatFormatting.RED))
 								.append(Component.literal(" - ").withStyle(ChatFormatting.GRAY))
 								.append(Component.translatable("commands.pettransfer.credits.translator", Component.literal("Español")).withStyle(ChatFormatting.GRAY)).append("\n")
+
+								.append(Component.literal("_glaci").withStyle(ChatFormatting.RED))
+								.append(Component.literal(" - ").withStyle(ChatFormatting.GRAY))
+								.append(Component.translatable("commands.pettransfer.credits.translator", Component.literal("日本語")).withStyle(ChatFormatting.GRAY)).append("\n")
 
 								.append(Component.literal("Ruby031").withStyle(ChatFormatting.RED))
 								.append(Component.literal(" - ").withStyle(ChatFormatting.GRAY))

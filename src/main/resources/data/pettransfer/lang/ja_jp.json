@@ -1,0 +1,38 @@
+{
+  "commands.pettransfer.main": " %1$s をつかって使用ください。",
+
+  "commands.pettransfer.help.main": "使えるサブコマンドは:",
+  "commands.pettransfer.help.help": "このテキストを表示ます。",
+  "commands.pettransfer.help.transfer": "見てるペットの所有権を決めた所有者に移行します。",
+  "commands.pettransfer.help.confirm": "ペットを移行していいですか？。 (自動確認 , ブール値 でこのメッセージは避けれます。",
+  "commands.pettransfer.help.accept": "誰かが所有権を移行しようとしてるペットを受け取りますか？",
+
+  "commands.pettransfer.help.credits": "クレジットを表示します!",
+  "commands.pettransfer.help.version": "モッドバージョンを表示します。",
+
+  "commands.pettransfer.transfer.fail.noentity": "ERROR: エンティティを見てません!",
+  "commands.pettransfer.transfer.fail.untameable": "ERROR: %1$s は飼いならせません。",
+  "commands.pettransfer.transfer.fail.untamed": "ERROR: %1$s は飼いならされてないです。",
+  "commands.pettransfer.transfer.fail.notowned": "ERROR: %1$s はあなたのではないです!",
+  "commands.pettransfer.transfer.fail.self": "ERROR: ペットの所有権を自分には移行出来ません。",
+  "commands.pettransfer.transfer.confirm": "%1$sの所有権を%2$sに送っていいですか? 確認するためには%3$sを実行するか%4$s.",
+  "commands.pettransfer.transfer.confirm.click": "ここを押してください。",
+
+  "commands.pettransfer.confirm.autoconfirmed": "自動確認! 今%1$sが%2$sを欲しいか決めてます。",
+  "commands.pettransfer.confirm.confirmed": "今%1$sが%2$sを欲しいか決めてます。",
+  "commands.pettransfer.confirm.ask": "%1$sが%2$s送りたいそうです! 確認するためには%3$sを実行するか%4$s",
+  "commands.pettransfer.confirm.ask.click": "ここを押してください。",
+
+  "commands.pettransfer.accept.gifter": "%2$sが移行申請を受け取りました! %1$sの所有権を%2$sに送りました!",
+  "commands.pettransfer.accept.recipient": "%1$sを%2$から受け取りました!お礼をいいましょう!",
+
+  "commands.pettransfer.version": "バージョン:",
+
+  "commands.pettransfer.credits": "これはこのプロジェクトに貢献した人です!",
+  "commands.pettransfer.credits.developer": "製作者",
+  "commands.pettransfer.credits.designer": "デザイナー",
+  "commands.pettransfer.credits.translator": "%1$s翻訳者",
+
+  "commands.pettransfer.credits.license": "ライセンス: "
+
+}

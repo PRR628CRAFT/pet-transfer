@@ -1,0 +1,35 @@
+{
+  "commands.pettransfer.main": "يرجى إستخدام %1$s لمعرفت كيفية إستخدام الأمر.",
+
+  "commands.pettransfer.help.main": "الأوامر المتاحة هي:",
+  "commands.pettransfer.help.help": "لإظهار هذا النص.",
+  "commands.pettransfer.help.transfer": "لنقل ملكية الحيوان الأليف الذي تنظر إليه لمالك من إختيارك.",
+  "commands.pettransfer.help.confirm": "لتأكيد نقل ملكية حيوانك الأليف. (يمكنك تخطي إستخدام بإستخدام AutoConfirm (True / False))",
+  "commands.pettransfer.help.accept": "لإستقبال الحيوان الأليف المرسل لك.",
+  "commands.pettransfer.help.credits": "لإظهار المساهمين في الإضافة!",
+  "commands.pettransfer.help.version": "لإظهار نسخة الإضافة.",
+
+  "commands.pettransfer.transfer.fail.noentity": "خلَل: انت لا تنظر إلي حيوان!",
+  "commands.pettransfer.transfer.fail.untameable": "خلَل: %1$s لا يمكن ترويضه!",
+  "commands.pettransfer.transfer.fail.untamed": "خلَل: %1$s غير مرَوَّض!",
+  "commands.pettransfer.transfer.fail.notowned": "خلَل: %1$s ليس حيوانك الأليف!",
+  "commands.pettransfer.transfer.fail.self": "خلَل: لا يمكنك نقل حيواناتك الأليفة لنفسك!",
+  "commands.pettransfer.transfer.confirm": "هل أنت متأكد من نقل ملكية %1$s إلي %2$s? إستخدم %3$s أو %4$s للتأكيد.",
+  "commands.pettransfer.transfer.confirm.click": "إضغط هنا",
+
+  "commands.pettransfer.confirm.autoconfirmed": "تم التاكيد الذاتي! في انتظار تاكيد %1$s لاستقبال %2$s.",
+  "commands.pettransfer.confirm.confirmed": "في انتظار تاكيد %1$s لاستقبال %2$s...",
+  "commands.pettransfer.confirm.ask": "هل أنت متأكد من نقل ملكية %1$s إلي %2$s? إستخدم %3$s أو %4$s للتأكيد.",
+  "commands.pettransfer.confirm.ask.click": "إضغط هنا",
+
+  "commands.pettransfer.accept.gifter": "%2$s إستقبل حيوانك الأليف بنجاح! تم نقل ملكية %1$s إلي %2$s بنجاح!",
+  "commands.pettransfer.accept.recipient": "تم استقبال  %1$s من %2$s بنجاح! تذكر ان تشكرهم!",
+
+  "commands.pettransfer.version": "إسم النسخة:",
+
+  "commands.pettransfer.credits": "هؤلاء المساهمون في الإضافة!",
+  "commands.pettransfer.credits.developer": "تطوير",
+  "commands.pettransfer.credits.designer": "تصميم",
+  "commands.pettransfer.credits.translator": "ترجمة %1$s",
+  "commands.pettransfer.credits.license": "الرخصة: "
+}
