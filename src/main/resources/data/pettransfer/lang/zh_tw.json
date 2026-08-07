@@ -1,0 +1,35 @@
+{
+  "commands.pettransfer.main": "使用 %1$s 來顯示用法資訊。",
+
+  "commands.pettransfer.help.main": "可用的子命令有:",
+  "commands.pettransfer.help.help": "顯示此對話框。",
+  "commands.pettransfer.help.transfer": "將你正在查看的寵物轉交給你選擇的所有者。",
+  "commands.pettransfer.help.confirm": "確認你要轉移你的寵物。（可透過已自動確認布林值略過",
+  "commands.pettransfer.help.accept": "接受他人轉移給你的寵物。",
+  "commands.pettransfer.help.credits": "列印該模組的鳴謝資訊！",
+  "commands.pettransfer.help.version": "列印模組版本資訊。",
+
+  "commands.pettransfer.transfer.fail.noentity": "錯誤：你目前沒有在查看任何實體！",
+  "commands.pettransfer.transfer.fail.untameable": "錯誤：%1$s 無法被馴服！",
+  "commands.pettransfer.transfer.fail.untamed": "錯誤：%1$s 尚未被馴服！",
+  "commands.pettransfer.transfer.fail.notowned": "錯誤：%1$s 不是你的！",
+  "commands.pettransfer.transfer.fail.self": "錯誤：你不能把寵物轉移給自己，真是的！",
+  "commands.pettransfer.transfer.confirm": "你確定要將 %1$s 傳送給 %2$s 嗎？執行 %3$s 或 %4$s 以確認。",
+  "commands.pettransfer.transfer.confirm.click": "點擊這裡",
+
+  "commands.pettransfer.confirm.autoconfirmed": "已自動確認！現在正在詢問 %1$s 是否想要 %2$s.",
+  "commands.pettransfer.confirm.confirmed": "現在正在詢問 %1$s 是否想要 %2$s……",
+  "commands.pettransfer.confirm.ask": "%1$s 想要把 %2$s 送給你！執行 %3$s 或 %4$s 以接受。",
+  "commands.pettransfer.confirm.ask.click": "點擊這裡",
+
+  "commands.pettransfer.accept.gifter": "%2$s 已接受你的轉移請求！成功將 %1$s 傳送給 %2$s！",
+  "commands.pettransfer.accept.recipient": "成功從 %2$s 接收到 %1$s！一定要感謝他們，並給這隻寵物一些額外的零食！",
+
+  "commands.pettransfer.version": "版本:",
+
+  "commands.pettransfer.credits": "這些是為該模組做出貢獻的各位人員名單！",
+  "commands.pettransfer.credits.developer": "開發者",
+  "commands.pettransfer.credits.designer": "設計師",
+  "commands.pettransfer.credits.translator": "%1$s 翻譯者",
+  "commands.pettransfer.credits.license": "授權許可: "
+}

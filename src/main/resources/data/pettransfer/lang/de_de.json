@@ -1,0 +1,35 @@
+{
+  "commands.pettransfer.main": "Nutze %1$s für Informationen über die Nutzung.",
+
+  "commands.pettransfer.help.main": "Verfügbare Unterbefehle sind:",
+  "commands.pettransfer.help.help": "Zeigt diesen Dialog.",
+  "commands.pettransfer.help.transfer": "Übergibt das Haustier, dass Sie gerade sehen, an einen Besitzer Ihrer Wahl.",
+  "commands.pettransfer.help.confirm": "Bestätige, dass Sie Ihr Haustier übergeben wollen. (Kann durch AutoConfirm boolean übersprungen werden)",
+  "commands.pettransfer.help.accept": "Nimm ein Haustier an, dass an Sie übergeben wird",
+  "commands.pettransfer.help.credits": "Zeigen Sie die Credits des Mods an",
+  "commands.pettransfer.help.version": "Zeigt die Version des Mods an.",
+
+  "commands.pettransfer.transfer.fail.noentity": "ERROR: Sie schauen keine Entität an!",
+  "commands.pettransfer.transfer.fail.untameable": "ERROR: %1$s kann nicht domestiziert werden!",
+  "commands.pettransfer.transfer.fail.untamed": "ERROR: %1$ ist nicht domestiziert!",
+  "commands.pettransfer.transfer.fail.notowned": "ERROR: %1$s gehört Ihnen nicht!",
+  "commands.pettransfer.transfer.fail.self": "ERROR: Sie können kein Haustier an sich selbst überweisen, der Versuch ist ja zum Lachen!",
+  "commands.pettransfer.transfer.confirm": "Sind Sie sich sicher, dass Sie %1$s an %2$s? übergeben wollen? Nutze %3$s oder %4$s, um es zu bestätigen.",
+  "commands.pettransfer.transfer.confirm.click": "Klicken Sie hier",
+
+  "commands.pettransfer.confirm.autoconfirmed": "AutoConfirmed! Jetzt frage ich %1$s ob %1$s %2$s will.",
+  "commands.pettransfer.confirm.confirmed": " Ich frage Jetzt %1$s ob %1$s %2$s will...",
+  "commands.pettransfer.confirm.ask": "%1$s würde dir gerne %2$s übergeben! Nutze %3$s oder %4$s um es zu bestätigen.",
+  "commands.pettransfer.confirm.ask.click": "Klicken Sie hier",
+
+  "commands.pettransfer.accept.gifter": "%2$s hat die Übergabe angenommen! %1$s wurde an %2$s übergeben!",
+  "commands.pettransfer.accept.recipient": "Sie haben %1$s von %2$s erhalten! Bedanken Sie sich und passen Sie gut auf Ihr neues Haustier auf!",
+
+  "commands.pettransfer.version": "Version:",
+
+  "commands.pettransfer.credits": "Das sind die Credits und die Personen die bei der Erstellung des Mods geholfen haben!",
+  "commands.pettransfer.credits.developer": "Entwicklungsteam",
+  "commands.pettransfer.credits.designer": "Designer",
+  "commands.pettransfer.credits.translator": "%1$s Translator",
+  "commands.pettransfer.credits.license": "Lizenz: "
+}

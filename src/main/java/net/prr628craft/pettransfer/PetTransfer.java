@@ -106,7 +106,7 @@ public class PetTransfer implements ModInitializer {
 
 								.append(Component.literal("dawn_homan").withStyle(ChatFormatting.RED))
 								.append(Component.literal(" - ").withStyle(ChatFormatting.GRAY))
-								.append(Component.translatable("commands.pettransfer.credits.translator", Component.literal("اَللُّغَةُ الْعَرَبِيَّةُ")).withStyle(ChatFormatting.GRAY)).append("\n")
+								.append(Component.translatable("commands.pettransfer.credits.translator", Component.literal("اللغة العربية")).withStyle(ChatFormatting.GRAY)).append("\n")
 
 								.append(Component.literal("DrPiro628").withStyle(ChatFormatting.RED))
 								.append(Component.literal(" - ").withStyle(ChatFormatting.GRAY))
@@ -115,6 +115,14 @@ public class PetTransfer implements ModInitializer {
 								.append(Component.literal("_glaci").withStyle(ChatFormatting.RED))
 								.append(Component.literal(" - ").withStyle(ChatFormatting.GRAY))
 								.append(Component.translatable("commands.pettransfer.credits.translator", Component.literal("日本語")).withStyle(ChatFormatting.GRAY)).append("\n")
+
+								.append(Component.literal("Goldgirl66").withStyle(ChatFormatting.RED))
+								.append(Component.literal(" - ").withStyle(ChatFormatting.GRAY))
+								.append(Component.translatable("commands.pettransfer.credits.translator", Component.literal("中国人/中國人/Deutsch")).withStyle(ChatFormatting.GRAY)).append("\n")
+
+								.append(Component.literal("hazelkitty138").withStyle(ChatFormatting.RED))
+								.append(Component.literal(" - ").withStyle(ChatFormatting.GRAY))
+								.append(Component.translatable("commands.pettransfer.credits.translator", Component.literal("한국인")).withStyle(ChatFormatting.GRAY)).append("\n")
 
 								.append(Component.literal("Ruby031").withStyle(ChatFormatting.RED))
 								.append(Component.literal(" - ").withStyle(ChatFormatting.GRAY))
