@@ -3,7 +3,7 @@
 	"id": "pettransfer",
 	"version": "${version}",
 	"name": "PetTransfer",
-	"description": "Easily transfer your pets to new owners with the simple /pet command!",
+	"description": "Easily transfer your pets to new owners with the simple /pettransfer command!",
 	"authors": [
 		"PRR628"
 	],
