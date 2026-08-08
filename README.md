@@ -33,7 +33,7 @@ The `/pettransfer` command can be used by any player, regardless of permission. 
 
 # 📝 Credits
 
-## Authors
+## 💻 Authors
 
 Here are the main people who worked on this mod! :3
 
@@ -42,7 +42,7 @@ Here are the main people who worked on this mod! :3
 | PRR628 (me!)  | Discord: `@PRR628`, [Modrinth](https://modrinth.com/user/glacigaymeow) \| [GitHub](https://github.com/glacigaymeow) | Developer & Artist (Made code and assets)                | 
 | FloofyFinch   | Discord: `@floofyfinch`                                                                                             | Designer (Came up with idea)                             | 
 
-## Localization
+## 💬 Localization
 
 Here is the list of all translators of the mod, and who did it. If you would like to make a translation, ask me on Discord.
 
@@ -56,13 +56,13 @@ Here is the list of all translators of the mod, and who did it. If you would lik
 | hazelkitty138 | Discord: hazelkitty138                                                                          | Korean                                                   | `ko_kr`                                              |
 | Ruby031       | [Modrinth](https://modrinth.com/user/Ruby031) \| [GitHub](https://github.com/Ruby031)           | Dutch                                                    | `nl_nl`                                              |
 
-# License
+# ⚖️ License
 
 The code, assets, and other files of the mod is under the [Attribution-NonCommercial-ShareAlike 4.0 International](https://github.com/PRR628CRAFT/pet-transfer?tab=License-1-ov-file), also known as CC-BY-NC-SA-4.0. Content made by Mojang is under the Minecraft EULA.
 
 If you upload/fork/edit my mod in any way, you must credit me directly by name, and via a link to the GitHub/Modrinth/website. You must also use the same license as me, and not directly profit off of the work.
 
-# Disclaimer
+# ⚠️ Disclaimer
 
 - 🤖 No AI has been used in the project, and I do not plan to. AI code is a growing problem in our community, and I will not use AI code, or accept AI code into my projects. AI sucks :/
 - ⚠️ This project is ONLY found on [MODRINTH](https://modrinth.com/project/pettransfer) at [https://modrinth.com/project/pettransfer](https://modrinth.com/project/pettransfer), [GITHUB](https://github.com/PRR628CRAFT/pet-transfer) at [https://github.com/PRR628CRAFT/pet-transfer](https://github.com/PRR628CRAFT/pet-transfer), and on my [WEBSITE](https://prr628craft.net/projects/pet-transfer) at [https://prr628craft.net/projects/pet-transfer](https://prr628craft.net/projects/pet-transfer). If you find it ANYWHERE ELSE, that is not official!
