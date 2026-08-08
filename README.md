@@ -48,7 +48,7 @@ Here is the list of all translators of the mod, and who did it. If you would lik
 
 | Translator    | Contact Info                                                                                    | Language                                                 | Lang Code                                            |
 |---------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------|
-| Augusta       | Discord: `@AugustaAG`                                                                           | Polish                                                   | `pl_pl`                                              |
+| Augusta       | Discord: `@augustaaltgaming`                                                                    | Polish                                                   | `pl_pl`                                              |
 | dawn_homan    | Discord: `@dawn_homan`                                                                          | Arabic                                                   | `ar_sa`                                              |
 | DrPiro628     | [Github](https://github.com/Piro628)                                                            | Spanish                                                  | `es_es`, `es_mx`, `es_ve`, `es_ec`, `es_cl`, `es_ar` |
 | _glaci        | [Modrinth](https://modrinth.com/user/glacigaymeow) \| [GitHub](https://github.com/glacigaymeow) | Japanese                                                 | `ja_jp`                                              |
