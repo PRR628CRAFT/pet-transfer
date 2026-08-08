@@ -1,10 +1,10 @@
 ![Mod Banner](https://cdn.modrinth.com/data/cached_images/5cd7c8f3c3e56be29f2eb29d4c1705c88d63bd6c.png)
 This is a server-side only Fabric mod that allows you to transfer your pets in Minecraft! With the simple `/pettransfer` command, you can transfer your pets to any other player online!
 This mod is a hobby project of mine, so it may not be the best. If there are any bugs or issues, feel free to report them on [GitHub Issues](https://github.com/PRR628CRAFT/pet-transfer/issues)!
-
 # 💖 Tutorial
 
 The `/pettransfer` command can be used by any player, regardless of permission. This is a table of what each subcommand does.
+
 | Subcommand | Description                                                                                                                |
 |------------|----------------------------------------------------------------------------------------------------------------------------|
 | `help`     | Displays the help menu, listing the function of all subcommands.                                                           |

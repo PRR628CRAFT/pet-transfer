@@ -11,6 +11,7 @@ import net.minecraft.network.chat.Style;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.TamableAnimal;
+import org.jspecify.annotations.NonNull;
 
 import java.util.Objects;
 import java.util.UUID;
@@ -19,7 +20,7 @@ import static net.prr628craft.pettransfer.PetTransfer.LOGGER;
 
 public class transferLogic {
     // Prefix helper to maintain consistency and prevent style bleeding
-    private static Component getPrefix() {
+    private static @NonNull Component getPrefix() {
         return Component.literal("[PetTransfer] ").withStyle(ChatFormatting.LIGHT_PURPLE, ChatFormatting.BOLD);
     }
 
@@ -41,9 +42,6 @@ public class transferLogic {
                         if (!recipient.equals(gifter)) {
                             if (autoconfirm) {
                                 confirmLogic.confirmFunc(gifter, pet, recipient, Boolean.TRUE);
-                                transferdialog.getSource().sendSuccess(() -> Component.empty()
-
-                                        , false);
                                 return 1;
                             }
 
