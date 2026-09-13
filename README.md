@@ -1,7 +1,7 @@
 ![Mod Banner](https://cdn.modrinth.com/data/cached_images/5cd7c8f3c3e56be29f2eb29d4c1705c88d63bd6c.png)
 
-[![Download on Modrinth](https://github.com/PRR628CRAFT/website/blob/e28f36fa5f6e1bc1905ada4ff8f80ba8973c600a/public/badges/download-on-modrinth.svg)](https://modrinth.com/mod/pettransfer)
-[![Made with FabricMC](https://github.com/PRR628CRAFT/website/blob/e28f36fa5f6e1bc1905ada4ff8f80ba8973c600a/public/badges/made-with-fabricmc.svg)](https://modrinth.com/mod/prr628s-pet-transfer)
+[![Download on Modrinth](https://github.com/PRR628CRAFT/website/blob/e28f36fa5f6e1bc1905ada4ff8f80ba8973c600a/public/badges/download-on-modrinth.svg)](https://modrinth.com/mod/prr628s-pet-transfer)
+[![Made with FabricMC](https://github.com/PRR628CRAFT/website/blob/e28f36fa5f6e1bc1905ada4ff8f80ba8973c600a/public/badges/made-with-fabricmc.svg)](https://fabricmc.net)
 [![Source on GitHub](https://github.com/PRR628CRAFT/website/blob/e28f36fa5f6e1bc1905ada4ff8f80ba8973c600a/public/badges/source-on-github.svg)](https://github.com/PRR628CRAFT/pet-transfer)
 [![Join the Discord](https://github.com/PRR628CRAFT/website/blob/e28f36fa5f6e1bc1905ada4ff8f80ba8973c600a/public/badges/join-the-discord.svg)](https://discord.gg/muRejQWXdA)
 [![Support on Patreon](https://github.com/PRR628CRAFT/website/blob/e28f36fa5f6e1bc1905ada4ff8f80ba8973c600a/public/badges/support-on-patreon.svg)](https://patreon.com/c/PRR628CRAFT)
