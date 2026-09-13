@@ -1,4 +1,11 @@
 ![Mod Banner](https://cdn.modrinth.com/data/cached_images/5cd7c8f3c3e56be29f2eb29d4c1705c88d63bd6c.png)
+
+[![Download on Modrinth](https://github.com/PRR628CRAFT/website/blob/e28f36fa5f6e1bc1905ada4ff8f80ba8973c600a/public/badges/download-on-modrinth.svg)](https://modrinth.com/mod/pettransfer)
+[![Made with FabricMC](https://github.com/PRR628CRAFT/website/blob/e28f36fa5f6e1bc1905ada4ff8f80ba8973c600a/public/badges/made-with-fabricmc.svg)](https://modrinth.com/mod/prr628s-pet-transfer))
+[![Source on GitHub](https://github.com/PRR628CRAFT/website/blob/e28f36fa5f6e1bc1905ada4ff8f80ba8973c600a/public/badges/source-on-github.svg)](https://github.com/PRR628CRAFT/pet-transfer)
+[![Join the Discord](https://github.com/PRR628CRAFT/website/blob/e28f36fa5f6e1bc1905ada4ff8f80ba8973c600a/public/badges/join-the-discord.svg)](https://discord.gg/muRejQWXdA)
+[![Support on Patreon](https://github.com/PRR628CRAFT/website/blob/e28f36fa5f6e1bc1905ada4ff8f80ba8973c600a/public/badges/support-on-patreon.svg)](https://patreon.com/c/PRR628CRAFT)
+
 This is a server-side only Fabric mod that allows you to transfer your pets in Minecraft! With the simple `/pettransfer` command, you can transfer your pets to any other player online!
 This mod is a hobby project of mine, so it may not be the best. If there are any bugs or issues, feel free to report them on [GitHub Issues](https://github.com/PRR628CRAFT/pet-transfer/issues)!
 # 💖 Tutorial
@@ -65,4 +72,4 @@ If you upload/fork/edit my mod in any way, you must credit me directly by name, 
 # ⚠️ Disclaimer
 
 - 🤖 No AI has been used in the project, and I do not plan to. AI code is a growing problem in our community, and I will not use AI code, or accept AI code into my projects. AI sucks :/
-- ⚠️ This project is ONLY found on [MODRINTH](https://modrinth.com/project/pettransfer) at [https://modrinth.com/project/pettransfer](https://modrinth.com/project/pettransfer), [GITHUB](https://github.com/PRR628CRAFT/pet-transfer) at [https://github.com/PRR628CRAFT/pet-transfer](https://github.com/PRR628CRAFT/pet-transfer), and on my [WEBSITE](https://prr628craft.net/projects/pet-transfer) at [https://prr628craft.net/projects/pet-transfer](https://prr628craft.net/projects/pet-transfer). If you find it ANYWHERE ELSE, that is not official!
+- ⚠️ This project is ONLY found on [MODRINTH](https://modrinth.com/mod/prr628s-pet-transfer) at [https://modrinth.com/project/pettransfer](https://modrinth.com/mod/prr628s-pet-transfer)), [GITHUB](https://github.com/PRR628CRAFT/pet-transfer) at [https://github.com/PRR628CRAFT/pet-transfer](https://github.com/PRR628CRAFT/pet-transfer), and on my [WEBSITE](https://prr628craft.net/projects/pet-transfer) at [https://prr628craft.net/projects/pet-transfer](https://prr628craft.net/projects/pet-transfer). If you find it ANYWHERE ELSE, that is not official!
